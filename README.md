@@ -63,6 +63,9 @@ $ pip install Flask
 # Execute o projeto
 $ flask run
 
+# Rode os testes
+$ python -m unittest -v test
+
 # O servidor estará disponível na porta 5000 - Acesse <http://127.0.0.1:5000>
 ```
 
