@@ -2,14 +2,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=lab&message=devops/cloud&color=blueviolet&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/MrRioja/lab-devops-and-cloud-computing?color=blueviolet&logo=License&style=for-the-badge"/>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MrRioja/lab-devops-and-cloud-computing?color=blueviolet&logo=python&logoColor=white&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MrRioja/lab-devops-and-cloud-computing?color=blueviolet&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/MrRioja/devopslab?color=blueviolet&logo=License&style=for-the-badge"/>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MrRioja/devopslab?color=blueviolet&logo=python&logoColor=white&style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MrRioja/devopslab?color=blueviolet&style=for-the-badge">
 </p>
 
 <p align="center">
   <a href="#sobre">Sobre</a> •
-  <a href="#devops&cloudcomputing">DevOps & Cloud Computing</a> •
+  <a href="#devops-&-cloud-computing">DevOps & Cloud Computing</a> •
   <a href="#instalação">Instalação</a> •
   <a href="#tecnologias">Tecnologias</a> •
   <a href="#autor">Autor</a>  
@@ -21,7 +21,20 @@ Repositório com a finalidade de registrar as implementações e anotações rea
 
 ## DevOps & Cloud Computing
 
-🚧 **Em construção** 🚧
+Projeto desenvolvido durante o Lab DevOps&Cloud Computing cursado no MBA em Fullstack Developer da Faculdade Impacta.
+
+A ideia do Lab é entender como funcionam os dois mundos de maneira pratica. Para isso passamos por uma experiencia hands-on explorando ferramentas, boas práticas, entre outras situações mais próximas possíveis da realidade.
+
+Durante as aulas recebemos backlogs "fictícios" (mas com situações reais) para implementarmos soluções para atingir os resultados propostos. As atividades estão disponíveis nesse [board no Trello](https://trello.com/b/Lm30X87r/lab-devops-cloud-computing).
+
+### Backlogs
+
+#### 1. Code / Build 🏗
+
+Nesse backlog fizemos as seguintes ações:
+
+- Clonamos o repo template do lab.
+- Merge da branch contendo a aplicação e os testes unitários.
 
 ## Instalação
 
@@ -33,10 +46,10 @@ Além disso é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:MrRioja/lab-devops-and-cloud-computing.git
+$ git clone git@github.com:MrRioja/devopslab.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd lab-devops-and-cloud-computing
+$ cd devopslab
 ```
 
 ## Tecnologias
