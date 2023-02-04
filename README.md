@@ -33,8 +33,13 @@ Durante as aulas recebemos backlogs "fictícios" (mas com situações reais) par
 
 Nesse backlog fizemos as seguintes ações:
 
-- Clonamos o repo template do lab.
+- Clone do repo template do lab.
 - Merge da branch contendo a aplicação e os testes unitários.
+- Ativação do GitHub Actions no repo.
+- Criação da pipeline.
+- Adição da etapa de execução de testes unitários na pipeline.
+- Customização da mensagem de retorno da API do repo.
+- Criação de bug para visualizar a pipeline falhando e logo após a realização da correção.
 
 ## Instalação
 
