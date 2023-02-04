@@ -50,6 +50,20 @@ $ git clone git@github.com:MrRioja/devopslab.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd devopslab
+
+# Crie um ambiente virtual
+$ python3 -m venv venv
+
+# Ative o ambiente virtual
+$ . venv/bin/activate
+
+# Instale o Flask no ambiente virtual
+$ pip install Flask
+
+# Execute o projeto
+$ flask run
+
+# O servidor estará disponível na porta 5000 - Acesse <http://127.0.0.1:5000>
 ```
 
 ## Tecnologias
