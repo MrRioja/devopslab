@@ -5,4 +5,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def pagina_inicial():
-    return "Coded by Luiz Rioja 👽"
+    return "Coded by Luiz Rioja"
