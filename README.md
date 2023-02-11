@@ -41,6 +41,15 @@ Nesse backlog fizemos as seguintes ações:
 - Customização da mensagem de retorno da API do repo.
 - Criação de bug para visualizar a pipeline falhando e logo após a realização da correção.
 
+#### 2. Docker & Deploy 🚚
+
+Nesse backlog fizemos as seguintes ações:
+
+- Entendimento do que é o Docker, container e criação de uma conta no DockerHub.
+- Acesso o Docker playground e estudo de alguns comandos básicos do Docker.
+- Criação de uma nova branch para criar uma imagem da nossa aplicação e criação de containers a partir dela.
+- Abertura de portas do container no Docker Playground para podermos chamar nossa API do mundo externo.
+
 ## Instalação
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
