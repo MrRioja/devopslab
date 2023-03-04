@@ -10,5 +10,4 @@ def pagina_inicial():
     return "Coded by Luiz Rioja 👽"
 
 
-if __name__ == '__main__':
-    app.run()
+app.run()
