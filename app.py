@@ -10,4 +10,5 @@ def pagina_inicial():
     return "Coded by Luiz Rioja 👽"
 
 
-app.run()
+if __name__ == '__main__':  # pragma: no cover
+    app.run()
